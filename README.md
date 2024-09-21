@@ -1,4 +1,4 @@
-# Group TEAM_NUMBER
+# Group 12
 Group Name: Team 12 (Think of new name)
 
 [Meeting Notes](https://docs.google.com/document/d/1CtSCz80iXnkfaQ-49nCS-IsXbfbiPTpN/edit?usp=sharing&ouid=104884942533627720435&rtpof=true&sd=true) (Fill in after each meeting)

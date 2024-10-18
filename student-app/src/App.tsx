@@ -121,7 +121,7 @@ const App = () => {
         <textarea
           value={content}
           onChange={(event) => setContent(event.target.value)}
-          placeholder="What is your age, teaching level and background?"
+          placeholder="What is your age, interests and background?"
           rows={10}
           required
           className="w-full p-2 border border-gray-300 rounded-md"
@@ -163,12 +163,12 @@ const App = () => {
       {/* The Go to Localhost button outside the condition */}
       <div className="mt-4 flex justify-center">
         <a
-          href="http://localhost:3001"
+          href="http://localhost:3000"
           target="_blank"
           rel="noopener noreferrer"
           className="px-4 py-2 bg-green-500 text-white rounded-md"
         >
-          Go to Mentee Site
+          Go to Mentor Site
         </a>
       </div>
 
